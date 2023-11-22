@@ -1,3 +1,5 @@
+Titanic-Dataset-Survival-Prediction:
+
 This dataset inlcudes columns like Age, Sex, Gender, Survival, PClass, Name etc.
 My task was to predict whether the passengers will survive or not and what are the important factors. 
 First I checked the shape of the data,datatypes in the dataset, checking null values. Then I have imputed all the null values using
